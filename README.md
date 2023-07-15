@@ -1,4 +1,4 @@
-![logo](https://github.com/musfiqurR661/musfiqurR661/blob/main/banner.gif)
+![logo](https://github.com/musfiqurR661/musfiqurR661/blob/main/Purple%20Green%20Modern%20Gaming%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Md Musfiqur Rahman</h1>
 <h3 align="center">Undergraduate CSE Student | Programmerer from Bangladesh | I have a great passion in programming. I am currently in my second year of studying CSE at United International University. In the future, I'm willing to be an Android developer. Skills: C / C++ / JAVA / MYSQL / HTML</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
