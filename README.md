@@ -1,8 +1,8 @@
-![logo](https://github.com/musfiqurR661/musfiqurR661/blob/main/Purple%20Green%20Modern%20Gaming%20Banner%20Landscape.png)
+![logo](https://github.com/musfiqurR661/musfiqurR661/blob/main/Musfiq%20Banner.png)
 
-<h1 align="center">Hi, I'm Md Musfiqur Rahman</h1>
+<!-- <h1 align="center">Hi, I'm Md Musfiqur Rahman</h1> -->
 <p align="center">
-  Undergraduate CSE Student • Aspiring Android Developer • Bangladesh
+  Undergraduate CSE Student • AI/ML Research Enthusiast • Aspiring Android Developer • Bangladesh
 </p>
 
 <p align="center">
