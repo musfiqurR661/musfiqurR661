@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/stars/musfiqurR661?label=Stars&style=flat" alt="stars" />
 </p>
 
-<img align="right" alt="Coding" width="360" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" />
+<!-- <img align="right" alt="Coding" width="360" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" /> -->
 
 ## About me
 - 🔭 Building Android apps (current: **codeCampus**)
@@ -32,7 +32,8 @@
 ## Tech stack
 **Languages:** C • C++ • Java • SQL • HTML • CSS • JavaScript
 
-**Tools & Platforms:** Android Studio • Git • MySQL • Flutter (learning) • Figma
+**Tools & Platforms:** Android Studio • Git • MySQL • Flutter • Figma • Overleaf • Google Colab • Canva
+
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
