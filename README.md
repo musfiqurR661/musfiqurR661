@@ -59,7 +59,7 @@
   <img src="./profile/top-langs.svg" alt="top langs" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurr661" alt="streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurr661" alt="streak" /> -->
 </p>
 
 ## Trophies
@@ -69,7 +69,6 @@
   </a>
 </p>
 
-> The cards above are static SVGs generated and committed by the [`update-readme-cards`](.github/workflows/update-readme-cards.yml) workflow, so they keep working even when the shared public `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` endpoints are rate-limited or paused.
 
 ## Support
 <p>
